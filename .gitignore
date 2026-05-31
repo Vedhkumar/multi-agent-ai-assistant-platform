@@ -39,17 +39,26 @@ share/python-wheels/
 *.egg
 MANIFEST
 
-# Node.js
+# Node.js / Frontend
 node_modules/
+**/node_modules/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+pnpm-debug.log*
 .npm/
+.pnpm-store/
+.yarn/
+package-lock.json.bak
+
+# Frontend build output
 dist/
 build/
 .next/
 out/
 .nuxt/
+.svelte-kit/
+.vite/
 
 # Frontend testing
 coverage/
@@ -62,3 +71,6 @@ logs/
 # Docker
 .docker/
 docker-compose.override.yml
+
+# Docs
+explanation.md
