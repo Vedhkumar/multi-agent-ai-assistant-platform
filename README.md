@@ -108,8 +108,8 @@ graph TB
 
 ### 1. Clone & Configure
 ```bash
-git clone https://github.com/yourusername/multi-agent-platform.git
-cd multi-agent-platform
+git clone https://github.com/Vedhkumar/multi-agent-ai-assistant-platform.git
+cd multi-agent-ai-assistant-platform
 cp .env.example .env
 # Edit .env with your API keys (optional)
 ```
