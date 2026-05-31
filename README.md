@@ -1,6 +1,6 @@
 # 🤖 AgentFlow — Multi-Agent AI Assistant Platform
 
-[![CI](https://github.com/yourusername/multi-agent-platform/actions/workflows/ci.yml/badge.svg)](https://github.com/yourusername/multi-agent-platform/actions)
+[![CI](https://github.com/Vedhkumar/multi-agent-ai-assistant-platform/actions/workflows/ci.yml/badge.svg)](https://github.com/Vedhkumar/multi-agent-ai-assistant-platform/actions)
 [![Python](https://img.shields.io/badge/Python-3.11+-3776AB?logo=python&logoColor=white)](https://python.org)
 [![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=white)](https://react.dev)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.115+-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
@@ -130,7 +130,7 @@ docker compose up --build
 ## 📁 Project Structure
 
 ```
-multi-agent-platform/
+multi-agent-ai-assistant-platform/
 ├── docker-compose.yml          # Full stack orchestration
 ├── .env.example                # Environment template
 ├── backend/
